@@ -5,3 +5,6 @@
 .idea
 .idea/**/*
 .vscode
+
+# Environment variables
+.env
